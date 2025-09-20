@@ -94,3 +94,4 @@ A Python-based karaoke system with a modern GUI built using Tkinter + ttkbootstr
 [https://youtu.be/](https://www.youtube.com/watch?v=j9Q_0MRdbXA)
 
 <img width="2054" height="1557" alt="image" src="https://github.com/user-attachments/assets/94a79672-00d7-4489-bd88-05e84765fa25" />
+本專案採用 [Apache License 2.0](LICENSE) 開源授權。
