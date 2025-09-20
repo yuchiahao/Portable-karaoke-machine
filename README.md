@@ -3,7 +3,7 @@ Portable Karaoke Machine Description: Voice or type song selection, song switchi
 🎤 KTV 伴唱機 (Python Karaoke Player)
 
 
-(建議錄製一段操作流程 GIF：搜尋 → 加入歌單 → 播放 → 收藏)
+
 
 📖 系統介紹
 
