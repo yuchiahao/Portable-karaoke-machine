@@ -130,7 +130,7 @@ class DemoPlayer:
         messagebox.showinfo(
             "展示版 Demo",
             "展示版不提供實際播放/抓取 YouTube 串流。\n\n"
-            "✅ 你可以在 README 說明：商用版提供完整播放功能。",
+            "README 說明：商用版提供完整播放功能。",
         )
 
     def pause(self):
