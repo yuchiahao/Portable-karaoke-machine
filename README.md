@@ -17,3 +17,8 @@ to search and play YouTube karaoke videos.
 ## How to Run
 ```bash
 python KTV_demo.py
+
+## Project Status
+
+This is a demo / prototype version of the project,
+intended for demonstration and personal portfolio use.
