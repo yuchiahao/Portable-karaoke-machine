@@ -1,5 +1,20 @@
 # -*- coding: utf-8 -*-
 """
+KTV Demo Version
+----------------
+This is a demo version of a Python-based karaoke system.
+
+Features:
+- Search YouTube karaoke videos
+- Play videos using VLC
+- Voice input support (if enabled)
+- Designed for desktop (Windows)
+
+Note:
+This version is for demonstration and portfolio purposes.
+"""
+
+"""
 KTV 伴唱機（展示版 Demo）
 ========================
 這是「展示版」：用來在 GitHub 展示 UI 與流程，不提供實際播放/下載/抓取 YouTube 串流。
